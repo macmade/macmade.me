@@ -1,0 +1,88 @@
+/* <![CDATA[ */
+
+/*
+##################################################
+#                                                #
+#       Blood Sweat & Code (& Rock'N'Roll)       #
+#      Thanx for looking at the source code      #
+#                                                #
+#                XS-Labs (c) 2018                #
+#                                                #
+##################################################
+*/
+
+html {
+    margin:                 0px;
+    padding:                0px;
+    position:               relative;
+    min-height:             100%;
+    color:                  #FFFFFF;
+    background-color:       #161A1D;
+}
+
+body {
+    padding-top:            50px;
+    margin:                 0px;
+    color:                  #FFFFFF;
+    background-color:       #161A1D;
+}
+
+body, body .container {
+    font-family:            Helvetica, Arial, sans-serif;
+}
+
+body * {
+    font-weight:            200;
+}
+
+strong {
+    font-weight:            500;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding:                0px;
+    margin-left:            0px;
+    margin-top:             5px;
+    margin-right:           0px;
+    margin-bottom:          5px;
+}
+
+dl dt {
+    font-weight:            500;
+}
+
+code {
+    font-size:              12px;
+}
+
+blockquote {
+    font-size:              14px;
+    font-style:             italic;
+}
+
+.clearer {
+    clear:                  both;
+}
+
+.power {
+    vertical-align:         super;
+}
+
+img.macmade {
+    margin:                 40px;
+}
+
+ul.links
+{
+    margin:                 0px;
+    padding:                0px;
+    list-style-type:        none;
+}
+
+ul.links li
+{
+    margin:                 0px;
+    padding:                5px;
+}
+
+/* ]]> */
