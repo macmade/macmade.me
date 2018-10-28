@@ -35,7 +35,7 @@
                 <h1>Jean-David Gadina</h1>
                 <h2>Software Engineer</h2>
                 <div>
-                    <img class="macmade" width="250" height="250" src="images/macmade.png" alt="Jean-David Gadina" title="Jean-David Gadina" />
+                    <img class="macmade" width="250" height="250" src="/images/macmade.png" alt="Jean-David Gadina" title="Jean-David Gadina" />
                 </div>
                 <ul class="links">
                     <li><a href="https://xs-labs.com">Website</a></li>
